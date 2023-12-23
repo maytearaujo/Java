@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MeuPrograma/MeuPrograma.iml" filepath="$PROJECT_DIR$/MeuPrograma/MeuPrograma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_01-olaMundo/_01-olaMundo.iml" filepath="$PROJECT_DIR$/_01-olaMundo/_01-olaMundo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_02-numeroDigitado/_02-numeroDigitado.iml" filepath="$PROJECT_DIR$/_02-numeroDigitado/_02-numeroDigitado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_03-soma/_03-soma.iml" filepath="$PROJECT_DIR$/_03-soma/_03-soma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_04-media/_04-media.iml" filepath="$PROJECT_DIR$/_04-media/_04-media.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_05-converterMetrosCentimetros/_05-converterMetrosCentimetros.iml" filepath="$PROJECT_DIR$/_05-converterMetrosCentimetros/_05-converterMetrosCentimetros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculadoraBasica/calculadoraBasica.iml" filepath="$PROJECT_DIR$/calculadoraBasica/calculadoraBasica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classCar/classCar.iml" filepath="$PROJECT_DIR$/classCar/classCar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/espacoEntreCaracteres/espacoEntreCaracteres.iml" filepath="$PROJECT_DIR$/espacoEntreCaracteres/espacoEntreCaracteres.iml" />
+      <module fileurl="file://$PROJECT_DIR$/figurasGeometricas/figurasGeometricas.iml" filepath="$PROJECT_DIR$/figurasGeometricas/figurasGeometricas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guerraDosNumeros/guerraDosNumeros.iml" filepath="$PROJECT_DIR$/guerraDosNumeros/guerraDosNumeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/numberFormat/numberFormat.iml" filepath="$PROJECT_DIR$/numberFormat/numberFormat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/numeros/numeros.iml" filepath="$PROJECT_DIR$/numeros/numeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/numerosImpares/numerosImpares.iml" filepath="$PROJECT_DIR$/numerosImpares/numerosImpares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/numerosInteiros/numerosInteiros.iml" filepath="$PROJECT_DIR$/numerosInteiros/numerosInteiros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/numerosPares/numerosPares.iml" filepath="$PROJECT_DIR$/numerosPares/numerosPares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ordenarNumeros/ordenarNumeros.iml" filepath="$PROJECT_DIR$/ordenarNumeros/ordenarNumeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quatroValores/quatroValores.iml" filepath="$PROJECT_DIR$/quatroValores/quatroValores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tabuada/tabuada.iml" filepath="$PROJECT_DIR$/tabuada/tabuada.iml" />
+    </modules>
+  </component>
+</project>

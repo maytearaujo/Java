@@ -1,0 +1,20 @@
+/*Ler um valor N. Calcular e escrever seu respectivo fatorial. Fatorial de N = N * (N-1) * (N-2) * (N-3) * ... * 1.
+Lembrando que, por definição, fatorial de 0 é 1.*/
+
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n, fatorial = 1;
+
+        System.out.print("Informe um número para cálculo do fatorial: ");
+        n = sc.nextInt();
+
+        for (int i = 1; i <= n; i++){
+             fatorial = fatorial * i;
+        }
+
+        System.out.printf("O fatorial de %d é %d", n, fatorial);
+    }
+}
